@@ -4,6 +4,6 @@
 <script>
 // We're indicating what props this file will need
 export default {
-    props: ['id']
+  props: ['id']
 }
 </script>
